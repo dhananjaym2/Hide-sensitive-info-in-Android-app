@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hide sensitive info in Android app</string>
+    <string name="valueFromEnvironmentVariable">Value from environment variable: %1$s</string>
 </resources>
